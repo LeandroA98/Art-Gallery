@@ -1,0 +1,1 @@
+(self.webpackChunkart_gallery_proyect=self.webpackChunkart_gallery_proyect||[]).push([[21],{747:(e,l,o)=>{"use strict";var r=o(486),a=o.n(r);console.log(a().join(["Another","module","loaded!"]," "))}},0,[[747,712]]]);
